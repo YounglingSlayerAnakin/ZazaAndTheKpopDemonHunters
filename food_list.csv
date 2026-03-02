@@ -1,0 +1,101 @@
+ID,Meal_Name,Category,Cuisine
+1,Spaghetti Carbonara,Dinner,Italian
+2,Chicken Tikka Masala,Dinner,Indian
+3,Beef Tacos,Dinner,Mexican
+4,California Roll Sushi,Lunch,Japanese
+5,Pad Thai,Dinner,Thai
+6,Margherita Pizza,Lunch/Dinner,Italian
+7,Classic Caesar Salad,Lunch,American
+8,Beef Stroganoff,Dinner,Russian
+9,Lasagna Bolognese,Dinner,Italian
+10,Classic Cheeseburger,Lunch/Dinner,American
+11,Fish and Chips,Lunch/Dinner,British
+12,Shepherd's Pie,Dinner,British
+13,Butter Chicken,Dinner,Indian
+14,Beef Pho,Lunch/Dinner,Vietnamese
+15,Tonkotsu Ramen,Dinner,Japanese
+16,Eggs Benedict,Breakfast,American
+17,Avocado Toast,Breakfast,International
+18,Brioche French Toast,Breakfast,French
+19,Blueberry Pancakes,Breakfast,American
+20,Shakshuka,Breakfast/Brunch,Middle Eastern
+21,Beef Bibimbap,Dinner,Korean
+22,Moussaka,Dinner,Greek
+23,Seafood Paella,Dinner,Spanish
+24,Hungarian Goulash,Dinner,Hungarian
+25,Ratatouille,Dinner,French
+26,Chicken Kiev,Dinner,Eastern European
+27,Beef Wellington,Dinner,British
+28,Peking Duck,Dinner,Chinese
+29,Shrimp Dim Sum,Lunch,Chinese
+30,Falafel Wrap,Lunch,Middle Eastern
+31,Hummus and Pita Plate,Lunch/Snack,Middle Eastern
+32,Chicken Shawarma,Lunch/Dinner,Middle Eastern
+33,Lamb Gyro,Lunch,Greek
+34,Potato Pierogi,Lunch/Dinner,Polish
+35,Wiener Schnitzel,Dinner,Austrian
+36,Coq au Vin,Dinner,French
+37,Bouillabaisse,Dinner,French
+38,Mushroom Risotto,Dinner,Italian
+39,Potato Gnocchi,Dinner,Italian
+40,Eggplant Parmesan,Dinner,Italian
+41,Chicken Quesadilla,Lunch,Mexican
+42,Burrito Bowl,Lunch,Mexican
+43,Cheese Enchiladas,Dinner,Mexican
+44,Shrimp Ceviche,Lunch,Peruvian
+45,Cheese Arepas,Breakfast/Lunch,Venezuelan
+46,Classic Poutine,Lunch/Snack,Canadian
+47,New England Clam Chowder,Lunch,American
+48,Lobster Roll,Lunch,American
+49,Seafood Jambalaya,Dinner,Cajun
+50,Chicken and Sausage Gumbo,Dinner,Cajun
+51,BBQ Pork Ribs,Dinner,American
+52,Pulled Pork Sandwich,Lunch/Dinner,American
+53,Southern Fried Chicken,Dinner,American
+54,Biscuits and Gravy,Breakfast,American
+55,Corned Beef Hash,Breakfast,Irish/American
+56,Quiche Lorraine,Breakfast/Lunch,French
+57,Cobb Salad,Lunch,American
+58,Waldorf Salad,Lunch,American
+59,Salad Nicoise,Lunch,French
+60,Greek Salad,Lunch,Greek
+61,Tomato Gazpacho,Lunch,Spanish
+62,Minestrone Soup,Lunch,Italian
+63,French Onion Soup,Lunch/Dinner,French
+64,Tom Yum Soup,Lunch/Dinner,Thai
+65,Mulligatawny Soup,Lunch,Indian
+66,Chicken Tikka Wrap,Lunch,Indian
+67,Pork Banh Mi,Lunch,Vietnamese
+68,Reuben Sandwich,Lunch,American
+69,Philly Cheesesteak,Lunch,American
+70,BLT Sandwich,Lunch,American
+71,Club Sandwich,Lunch,American
+72,Monte Cristo Sandwich,Lunch,French/American
+73,Sloppy Joes,Lunch/Dinner,American
+74,Classic Meatloaf,Dinner,American
+75,Beef Pot Roast,Dinner,American
+76,Beef Bourguignon,Dinner,French
+77,Lamb Curry,Dinner,Indian
+78,Tandoori Chicken,Dinner,Indian
+79,Saag Paneer,Dinner,Indian
+80,Chana Masala,Dinner,Indian
+81,Jamaican Jerk Chicken,Dinner,Jamaican
+82,Shrimp Scampi,Dinner,Italian/American
+83,Maryland Crab Cakes,Lunch/Dinner,American
+84,Baja Fish Tacos,Lunch/Dinner,Mexican
+85,Ahi Tuna Poke Bowl,Lunch,Hawaiian
+86,Teriyaki Salmon,Dinner,Japanese
+87,Pork Tonkatsu,Dinner,Japanese
+88,Shrimp Yakisoba,Dinner,Japanese
+89,Kimchi Stew (Jjigae),Dinner,Korean
+90,Beef Bulgogi,Dinner,Korean
+91,Stuffed Bell Peppers,Dinner,International
+92,Cabbage Rolls,Dinner,Eastern European
+93,Chili Con Carne,Dinner,American/Mexican
+94,Baked Ziti,Dinner,Italian/American
+95,Fettuccine Alfredo,Dinner,Italian
+96,Shrimp Po' Boy,Lunch,Cajun
+97,Chicken Parmesan,Dinner,Italian/American
+98,Swedish Meatballs,Dinner,Swedish
+99,Cottage Pie,Dinner,British
+100,Red Lentil Dahl,Dinner,Indian
